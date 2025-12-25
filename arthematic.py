@@ -1,0 +1,8 @@
+a=float(input("enetr the value of a:"))
+b=float(input("eneter the value of b:"))
+print("="*40)
+print("{}+{} is {}".format(a,b,(a+b)))
+print("{}/{} is {}".format(a,b,a/b))
+print("{}*{} is {}".format(a,b,(a*b)))
+print("{}%{} is {}".format(a,b,(a%b)))
+print("="*40)
